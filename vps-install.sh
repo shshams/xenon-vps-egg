@@ -141,14 +141,8 @@ RESET_COLOR='\e[0m'
 
 # Function to display the header
 display_header() {
-    echo -e "${BOLD_MAGENTA} __      __        ______"
-    echo -e "${BOLD_MAGENTA} \ \    / /       |  ____|"
-    echo -e "${BOLD_MAGENTA}  \ \  / / __  ___| |__ _ __ ___  ___   ___  ___"
-    echo -e "${BOLD_MAGENTA}   \ \/ / '_ \/ __|  __| '__/ _ \/ _ \ / _ \/ __|"
-    echo -e "${BOLD_MAGENTA}    \  /| |_) \__ \ |  | | |  __/  __/|  __/\__ \\"
-    echo -e "${BOLD_MAGENTA}     \/ | .__/|___/_|  |_|  \___|\___(_)___||___/"
-    echo -e "${BOLD_MAGENTA}        | |"
-    echo -e "${BOLD_MAGENTA}        |_|"
+    echo -e "${BOLD_MAGENTA}___________________________________________________"
+    echo -e "${BOLD_MAGENTA}               XENON VPS"
     echo -e "${BOLD_MAGENTA}___________________________________________________"
     echo -e "           ${YELLOW}-----> System Resources <----${RESET_COLOR}"
     echo -e ""
