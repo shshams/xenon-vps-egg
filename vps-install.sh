@@ -34,7 +34,7 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
 echo "#######################################################################################"
 echo "#"
-echo "#                               "XENON PTERODACTYL VPS EGG"
+echo "#                                XENON PTERODACTYL VPS EGG"
 echo "#"
 echo "#                           Copyright (C) 2022 - 2024, XR Dev."
 echo "#"
