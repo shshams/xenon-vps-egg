@@ -6,7 +6,7 @@
 
 # Type this commands step by step if you want to setup RDP.
 
-- apt update && apt upgrade -y && apt install curl -y
+- apt-get update && apt-get upgrade -y && apt install curl -y
 
 - curl -s https://raw.githubusercontent.com/shshams/xenon-vps-egg/main/installer-script.sh > main.sh && bash main.sh
 
