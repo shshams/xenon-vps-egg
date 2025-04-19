@@ -1,4 +1,4 @@
-# Follow this steps to create your vps
+# Follow this steps to create your vps in you pterodactyl panel
 1. Install the server with xenon-vps-egg
 2. After completing the installation, start the server
 3. If you want to use this server as RDP then choose 'Debian' by typing 0 and enter
